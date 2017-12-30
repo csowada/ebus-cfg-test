@@ -3,7 +3,7 @@
 
 	<groupId>de.csdev.ebus</groupId>
 	<artifactId>ebus-configuration</artifactId>
-	<version>1.0.2-SNAPSHOT</version>
+	<version>1.0.1</version>
 	<packaging>jar</packaging>
 
 	<name>ebus-configuration</name>
